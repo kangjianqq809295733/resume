@@ -143,4 +143,4 @@ spring mvc，jpa，go，git，jenkins，docker，slack，chatops，devops
 
 ## 业余作品
 [网络收藏夹](http://100000p.com)
-[开发api](github.com/zhangshanhai/readthis-api)
+[开发api](http://github.com/zhangshanhai/readthis-api)
