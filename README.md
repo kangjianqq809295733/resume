@@ -6,7 +6,7 @@
 手机： 18811413070 <br>
 性 别： 男<br>
 出生日期： 1989年11月30日 <br>
-居 住 地： 北京-海淀区<br>
+居 住 地： 北京-昌平区<br>
 工作年限：5年<br>
 qq：707582070<br>
 户 口： 河北唐山<br>
@@ -152,7 +152,7 @@ qq：707582070<br>
 
 
 ## 个人技能
-sql优化等，python，go等语言了解基本语法<br>
+sql优化等，python，go语言，jvm 性能调优<br>
 了解 devops，chatops
 
 ## 职业目标
@@ -161,7 +161,7 @@ sql优化等，python，go等语言了解基本语法<br>
 
 ## 特长
 
-自学能力还好，喜欢新型的东西，喜欢研究。最近在学习使用spring cloud 开发微服务
+自学能力还好，喜欢新型的东西，喜欢研究。
 
 ## 对公司/团队的 要求和 期望
 
@@ -176,6 +176,10 @@ sql优化等，python，go等语言了解基本语法<br>
 技术栈 期望
 
 spring mvc，jpa，go，git，jenkins，docker，slack，chatops，devops
+
+## 熟练使用开源组件技能
+
+spring 家族，docker，Jenkins，storm，elasticsearch，hotspot，mysql，redis etc.
 
 ## 业余作品
 [网络收藏夹](http://100000p.com)
