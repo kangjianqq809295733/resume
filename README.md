@@ -153,7 +153,8 @@ qq：707582070<br>
 
 ## 个人技能
 sql优化等，python，go语言，jvm 性能调优<br>
-了解 devops，chatops
+了解 devops，chatops <br>
+了解 zookeeper
 
 ## 职业目标
 - 想在计算机，互联网行业长期发展。希望从事互联网，移动互联网，计算广告等 后端工作
