@@ -7,7 +7,7 @@
 性 别： 男<br>
 出生日期： 1989年11月30日 <br>
 居 住 地： 北京-昌平区<br>
-工作年限：5年<br>
+工作年限：6年<br>
 qq：707582070<br>
 户 口： 河北唐山<br>
 求职意向<br>
@@ -50,7 +50,7 @@ qq：707582070<br>
 公司简介：
 > - 一家互联网p2p金融公司
 > - 掌众财富，闪电借款等产品。
-
+> - https://www.weshare.com.cn/
 
 
 
@@ -60,6 +60,7 @@ qq：707582070<br>
 部门：---<br>
 公司简介：
 > - 一个内容分享网站 [10万加](https://100000p.com)。
+> - [app地址](https://itunes.apple.com/cn/app/id1348577356)
 
 
 #### 掌游天下
@@ -94,6 +95,7 @@ qq：707582070<br>
 > - 此项目为撮合交易。 根据政府文件，进行p2p贷款 合规改造。该系统是 借款人 和 理财人的撮合系统。
 > - 理财业务端，借款业务端，将数据同步给撮合系统。撮合后，向银行发送打扣款命令。用户收到到卡通知后。返回给 业务端。
 > - 还款逻辑（非本人开发）。
+> - 迁移老数据到新系统存管银行
 
 本人职责&具体工作内容
  - 项目立项
@@ -102,6 +104,7 @@ qq：707582070<br>
  - 独自开发撮合核心代码。
  - 引导帮助同事，完成周边功能。例如 数据入库等。
  - 用到的技术有，spring boot，redis，rabbitMq，gradle。
+ - 将30万借款订单 与 2万理财订单撮合交易后，同步迁移到新系统中。达到11亿资金一分钱不差。
 
 
 
@@ -214,7 +217,7 @@ spring mvc，jpa，go，git，jenkins，docker，slack，chatops，devops
 
 ## 熟练使用开源组件技能
 
-spring 家族，docker，Jenkins，storm，elasticsearch，hotspot，mysql，redis etc.
+spring 家族，docker，Jenkins，storm，elasticsearch，hotspot，mysql，redis，eth,eos,btc,fabric etc.
 
 ## 业余作品
 [网络收藏夹](http://100000p.com)
