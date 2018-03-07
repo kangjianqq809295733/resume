@@ -10,30 +10,6 @@
 工作年限：6年<br>
 qq：707582070<br>
 户 口： 河北唐山<br>
-求职意向<br>
-到岗时间： 近期到岗<br>
-希望行业： 互联网/电子商务/移动互联网<br>
-目标地点： 北京-西二旗到西直门之间<br><br>
-期望薪水： 25k/月,区块链开发（50k起）<br>
-目标职能： 架构师、高级工程师<br>
-
-## 写在前面的话
-
-任何情况下都不加班（含由于我不加班导致公司破产等情况）。
-
-猎头勿扰。
-
-本人每天最多写3小时代码（下午3-5点效率最高），含设计架构时间。超过这个时长第二天就得删掉前一天写的代码。
-
-我不为别人的错误买单。
-
-加班分一下几种情况。
-
-1.项目或产品落后于同行，紧急追赶同行（为啥不早点开始？）
-
-2.安排工期不合理。（一将无能，累死千军）
-
-3.我无法完成任务。（无法胜任工作）
 
 
 ## 教育经历
@@ -223,4 +199,4 @@ spring 家族，docker，Jenkins，storm，elasticsearch，hotspot，mysql，red
 [网络收藏夹](http://100000p.com)
 [开发api](http://github.com/zhangshanhai/readthis-api)
 
-![](https://github.com/zhangshanhai/collection-xcx/raw/master/gh_7f4a7039e66b_344.jpg)
+![](http://p00001.oss-cn-hongkong.aliyuncs.com/app.png)
